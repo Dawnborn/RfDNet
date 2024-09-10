@@ -250,14 +250,3 @@ If you find our work helpful, please consider citing
 
 ### License
 RfD-Net is relased under the MIT License. See the [LICENSE file](https://github.com/yinyunie/RfDNet/blob/main/LICENSE ) for more details.
-
-
-
-   
-
-
-
-
-   
-
-
